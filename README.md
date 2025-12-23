@@ -9,7 +9,7 @@ A professional Python-based utility for parsing system log files, aggregating la
 
 ---
 
-## Overview
+##  Overview
 
 **Latency Metrics Analyzer** helps DevOps and SREs quickly summarize system behavior without complex monitoring stacks. It transforms raw, messy log data into actionable performance insights by automating the detection of system bottlenecks.
 
