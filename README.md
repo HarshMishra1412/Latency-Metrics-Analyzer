@@ -12,7 +12,7 @@ A high-performance utility for parsing system logs and identifying statistical a
 This tool automates the process of auditing system performance. It processes raw log files to extract latency data, identifies log levels, and flags significant performance outliers. By using mathematical standard deviations, it separates routine fluctuations from genuine system lag.
 
 ## System Workflow
-The following diagram illustrates the data processing pipeline:
+The following diagram illustrates the internal data processing pipeline:
 
 ```mermaid
 graph TD
