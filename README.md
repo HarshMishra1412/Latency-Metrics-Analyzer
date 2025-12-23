@@ -48,6 +48,8 @@ The tool processes logs through a highly efficient pipeline:
    $$\text{Latency} > (\mu + 3\sigma)$$
 
 
+ 
+
 
 ---
 
@@ -59,12 +61,17 @@ latency-metrics-analyzer/
 ├── stats_log.py     # Core statistical engine and CLI entry point
 ├── sample.log       # Sample log file for testing
 └── README.md        # Documentation
-## Requirements
+```
+
+  ## Requirements
 - Python 3.x  
 - No external dependencies
 
 ## Usage
 
-```bash
+
 python analyzer.py
+
+
+
 
