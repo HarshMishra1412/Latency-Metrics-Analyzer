@@ -42,3 +42,12 @@ latency-metrics-analyzer/
 ├── stats_log.py     # Core statistical engine and CLI entry point
 ├── sample.log       # Sample log file for testing
 └── README.md        # Documentation
+## Requirements
+
+- Python 3.x  
+- No external dependencies
+
+## Usage
+
+```bash
+python analyzer.py
